@@ -1,0 +1,290 @@
+
+================================================================
+======== txAdmin starting - 7/7/2021, 6:33:34 PM
+================================================================
+[18:38:50][127.0.0.1][Quang_Nguy_n] Changing global settings via setup stepper and started Deployer.
+[18:38:59][127.0.0.1][Quang_Nguy_n] Setting recipe.
+[18:45:03][127.0.0.1][Quang_Nguy_n] Running recipe.
+[18:57:59][127.0.0.1][Quang_Nguy_n] Changing global settings via setup stepper and started Deployer.
+[19:01:16][127.0.0.1][Quang_Nguy_n] Setting recipe.
+[19:01:28][127.0.0.1][Quang_Nguy_n] Running recipe.
+[19:09:18][127.0.0.1][Quang_Nguy_n] Changing global settings via setup stepper and started Deployer.
+[19:09:29][127.0.0.1][Quang_Nguy_n] Setting recipe.
+[19:09:38][127.0.0.1][Quang_Nguy_n] Running recipe.
+[19:12:18][127.0.0.1][Quang_Nguy_n] Configured server.cfg from deployer.
+[19:12:18][127.0.0.1][Quang_Nguy_n] Completed and committed server deploy.
+[19:13:29][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[19:16:33][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[19:17:37][127.0.0.1][Quang_Nguy_n] START SERVER
+[19:18:49][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[19:22:18][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[19:28:02][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[19:28:06][127.0.0.1][Quang_Nguy_n] START SERVER
+[19:31:37][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[19:31:46][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[20:03:43][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[20:03:46][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[20:13:23][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[20:13:34][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[20:25:58][127.0.0.1][Quang_Nguy_n] ensure "cosmo_hud"
+[20:35:48][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[20:35:49][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[20:35:53][127.0.0.1][Quang_Nguy_n] refresh
+[20:36:01][127.0.0.1][Quang_Nguy_n] ensure "qb-companies"
+[20:36:15][127.0.0.1][Quang_Nguy_n] ensure "phxlsmc"
+[20:38:25][127.0.0.1][Quang_Nguy_n] ensure "qb-customs"
+[20:39:42][127.0.0.1][Quang_Nguy_n] ensure "qb-customs"
+[20:57:55][127.0.0.1][Quang_Nguy_n] ensure "qb-customs"
+[21:24:38][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[21:24:45][127.0.0.1][Quang_Nguy_n] refresh
+[21:24:52][127.0.0.1][Quang_Nguy_n] ensure "breze_benefactor"
+[22:34:37][127.0.0.1][Quang_Nguy_n] stop "qb-hud"
+[22:35:11][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[23:43:07][127.0.0.1][Quang_Nguy_n] refresh
+[23:43:17][127.0.0.1][Quang_Nguy_n] ensure "lsc_new"
+[23:43:35][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[00:18:27][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[00:18:28][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[00:18:31][127.0.0.1][Quang_Nguy_n] START SERVER
+[00:19:27][127.0.0.1][Quang_Nguy_n] ensure "Coord"
+[00:19:41][127.0.0.1][Quang_Nguy_n] ensure "cosmo_hud"
+[00:31:01][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[00:32:19][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[00:32:54][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[00:32:55][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[00:32:59][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[00:34:53][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[00:40:53][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[00:42:41][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[00:42:46][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[00:51:51][127.0.0.1][Quang_Nguy_n] refresh
+[00:51:58][127.0.0.1][Quang_Nguy_n] ensure "show"
+[00:56:52][127.0.0.1][Quang_Nguy_n] ensure "qb-mechanicjob"
+[01:03:07][127.0.0.1][Quang_Nguy_n] ensure "truck_logistics"
+[01:03:38][127.0.0.1][Quang_Nguy_n] ensure "cosmo_hud"
+[01:04:25][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[01:06:23][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[01:06:33][127.0.0.1][Quang_Nguy_n] START SERVER
+[02:47:22][127.0.0.1][Quang_Nguy_n] ensure "qb-customs"
+[02:52:35][127.0.0.1][Quang_Nguy_n] stop "qb-vehiclekeys"
+[02:59:21][127.0.0.1][Quang_Nguy_n] ensure "qb-mechanicjob"
+[03:03:41][127.0.0.1][Quang_Nguy_n] refresh
+[03:32:30][127.0.0.1][Quang_Nguy_n] refresh
+[03:34:51][127.0.0.1][Quang_Nguy_n] refresh
+[03:38:44][127.0.0.1][Quang_Nguy_n] ensure "qb-mechanicjob"
+[17:32:32][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[17:49:33][127.0.0.1][Quang_Nguy_n] START SERVER
+[19:04:27][127.0.0.1][Quang_Nguy_n] ensure "show"
+[19:09:49][127.0.0.1][Quang_Nguy_n] refresh
+[19:16:56][127.0.0.1][Quang_Nguy_n] stop "lsc_new"
+[19:21:08][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[19:21:10][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[19:29:13][127.0.0.1][Quang_Nguy_n] ensure "qb-mechanicjob"
+[19:30:52][127.0.0.1][Quang_Nguy_n] ensure "qb-mechanicjob"
+[19:32:12][127.0.0.1][Quang_Nguy_n] ensure "qb-mechanicjob"
+[19:35:25][127.0.0.1][Quang_Nguy_n] refresh
+[19:35:58][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[19:41:28][127.0.0.1][Quang_Nguy_n] ensure "qalle_coords"
+[19:46:14][127.0.0.1][Quang_Nguy_n] ensure "qb-mechanicjob"
+[19:50:24][127.0.0.1][Quang_Nguy_n] ensure "qb-mechanicjob"
+[19:57:08][127.0.0.1][Quang_Nguy_n] ensure "qb-mechanicjob"
+[20:08:08][127.0.0.1][Quang_Nguy_n] ensure "qb-mechanicjob"
+[20:09:20][127.0.0.1][Quang_Nguy_n] ensure "qb-mechanicjob"
+[20:21:00][127.0.0.1][Quang_Nguy_n] ensure "qb-mechanicjob"
+[21:50:16][127.0.0.1][Quang_Nguy_n] ensure "qb-vehiclekeys"
+[21:52:21][127.0.0.1][Quang_Nguy_n] ensure "qb-vehiclekeys"
+[21:54:50][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[21:59:35][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[22:00:33][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[22:02:49][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[22:10:01][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[22:15:47][127.0.0.1][Quang_Nguy_n] refresh
+[22:20:16][127.0.0.1][Quang_Nguy_n] refresh
+[22:23:34][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[23:21:44][127.0.0.1][Quang_Nguy_n] ensure "qb-cityhall"
+[23:26:08][127.0.0.1][Quang_Nguy_n] ensure "qb-cityhall"
+[00:15:52][127.0.0.1][Quang_Nguy_n] ensure "qalle_coords"
+[00:21:52][127.0.0.1][Quang_Nguy_n] ensure "qb-mechanicjob"
+[02:17:07][127.0.0.1][Quang_Nguy_n] /say em reset sv test thử map khác nhé
+[02:17:20][127.0.0.1][Quang_Nguy_n] say em reset sv 2' test thử các map khác nhé
+[02:17:52][127.0.0.1][Quang_Nguy_n] refresh
+[03:04:56][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[03:15:40][127.0.0.1][Quang_Nguy_n] ensure "qb-cityhall"
+[03:24:20][127.0.0.1][Quang_Nguy_n] refresh
+[03:25:12][127.0.0.1][Quang_Nguy_n] ensure "qb-radialmenu"
+[03:25:19][127.0.0.1][Quang_Nguy_n] ensure "qb-vehiclekeys"
+[06:19:25][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[06:26:01][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[06:26:08][127.0.0.1][Quang_Nguy_n] START SERVER
+[19:07:14][127.0.0.1][Quang_Nguy_n] refresh
+[19:19:04][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[19:34:11][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[19:47:24][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[21:06:10][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[21:07:13][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[21:10:56][127.0.0.1][Quang_Nguy_n] refresh
+[21:28:26][127.0.0.1][Quang_Nguy_n] ensure "qb-scrapyard"
+[02:27:49][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[02:28:52][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[02:28:58][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[03:42:59][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[03:46:57][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[03:47:08][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[04:31:30][127.0.0.1][Quang_Nguy_n] START SERVER
+[04:51:35][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[05:12:32][127.0.0.1][Quang_Nguy_n] ensure "qb-lockpick"
+[05:18:16][127.0.0.1][Quang_Nguy_n] ensure "qb-vehiclekeys"
+[05:18:21][127.0.0.1][Quang_Nguy_n] refresh
+[05:59:33][127.0.0.1][Quang_Nguy_n] ensure "show"
+[06:51:18][127.0.0.1][Quang_Nguy_n] ensure "qb-mechanicjob"
+[18:36:53][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[18:54:28][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[18:54:35][127.0.0.1][Quang_Nguy_n] START SERVER
+[19:09:33][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[19:09:45][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[19:13:12][127.0.0.1][Quang_Nguy_n] ensure "qb-cityhall"
+[08:35:23][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[08:35:57][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[08:36:00][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[08:53:23][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[08:57:42][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[21:55:51][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[22:29:42][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[22:31:46][127.0.0.1][Quang_Nguy_n] START SERVER
+[22:33:19][127.0.0.1][Quang_Nguy_n] stop "truck_logistics"
+[23:22:36][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[23:22:36][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[23:22:40][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[23:28:52][127.0.0.1][Quang_Nguy_n] refresh
+[23:30:29][127.0.0.1][Quang_Nguy_n] refresh
+[23:30:41][127.0.0.1][Quang_Nguy_n] ensure "qb-radialmenu"
+[23:31:19][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[23:35:01][127.0.0.1][Quang_Nguy_n] ensure "qb-radialmenu"
+[23:37:01][127.0.0.1][Quang_Nguy_n] ensure "qb-radialmenu"
+[23:39:50][127.0.0.1][Quang_Nguy_n] ensure "qb-radialmenu"
+[01:18:33][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[01:18:54][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[01:19:24][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[01:22:30][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[01:22:39][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[02:12:46][127.0.0.1][Quang_Nguy_n] ensure "qb-jewelery"
+[02:14:01][127.0.0.1][Quang_Nguy_n] ensure "qb-jewelery"
+[02:15:30][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[02:15:55][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[02:16:43][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[02:16:48][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[02:27:35][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[02:28:46][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[02:37:56][127.0.0.1][Quang_Nguy_n] START SERVER
+[02:39:40][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[02:52:51][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[02:54:23][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[02:54:26][127.0.0.1][Quang_Nguy_n] START SERVER
+[03:00:52][127.0.0.1][Quang_Nguy_n] ensure "truck_logistics"
+[03:39:56][127.0.0.1][Quang_Nguy_n] ensure "truck_logistics"
+[04:57:21][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[05:12:13][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[05:18:30][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[19:27:00][127.0.0.1][Quang_Nguy_n] version
+[19:31:41][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[19:59:13][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[20:21:00][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+
+================================================================
+======== txAdmin starting - 7/12/2021, 8:26:32 PM
+================================================================
+[22:10:38][127.0.0.1][Quang_Nguy_n] ensure qb-mine
+[22:11:46][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[22:30:43][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[22:35:31][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[23:22:42][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[00:25:47][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[00:25:59][127.0.0.1][Quang_Nguy_n] ensure qb-busjob
+[00:26:07][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[00:27:27][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[00:31:04][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[00:31:41][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[00:35:20][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[00:35:32][127.0.0.1][Quang_Nguy_n] stop "qb-busjob"
+[01:24:19][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[01:24:24][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[01:28:48][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[01:39:12][127.0.0.1][Quang_Nguy_n] START SERVER
+[01:52:20][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[02:10:35][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[02:38:14][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[02:54:59][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[03:02:04][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[03:02:07][127.0.0.1][Quang_Nguy_n] START SERVER
+[03:10:34][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[03:11:02][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[03:11:12][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[03:11:16][127.0.0.1][Quang_Nguy_n] START SERVER
+[03:19:04][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[03:40:14][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[04:33:47][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[06:23:53][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[06:28:41][127.0.0.1][Quang_Nguy_n] START SERVER
+[07:02:12][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[07:11:51][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[07:12:12][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[07:13:08][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[07:13:28][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[07:13:28][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[07:13:29][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[07:13:37][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[07:14:39][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[07:14:53][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[07:15:04][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[07:15:13][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[07:15:18][127.0.0.1][Quang_Nguy_n] START SERVER
+[07:15:30][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[07:30:45][127.0.0.1][Quang_Nguy_n] START SERVER
+[07:47:55][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[07:49:46][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[07:49:57][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[07:50:12][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[07:50:17][127.0.0.1][Quang_Nguy_n] START SERVER
+[07:51:44][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[07:55:25][127.0.0.1][Quang_Nguy_n] START SERVER
+[21:04:03][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[21:13:14][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[21:13:32][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[21:14:02][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[21:14:03][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[21:31:08][127.0.0.1][Quang_Nguy_n] START SERVER
+[21:38:10][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[21:41:01][127.0.0.1][Quang_Nguy_n] START SERVER
+[21:49:58][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[22:37:18][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[22:39:27][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[22:39:44][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[22:39:47][127.0.0.1][Quang_Nguy_n] START SERVER
+[22:44:33][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[22:45:25][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[22:46:09][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[22:55:22][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[00:29:46][127.0.0.1][Quang_Nguy_n] START SERVER
+[01:34:47][127.0.0.1][Quang_Nguy_n] ensure "qalle_coords"
+[02:46:27][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[02:48:50][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[02:49:21][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[02:52:45][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[02:53:52][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[04:15:28][127.0.0.1][Quang_Nguy_n] ensure "qalle_coords"
+[23:16:56][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[23:19:19][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[23:21:54][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[23:23:12][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[23:23:38][127.0.0.1][Quang_Nguy_n] START SERVER
+[01:04:30][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[01:16:41][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[03:48:11][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[04:36:54][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[06:31:33][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[06:51:26][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[06:51:27][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[07:04:02][127.0.0.1][Quang_Nguy_n] Editing server CFG File.
+[07:04:06][127.0.0.1][Quang_Nguy_n] RESTART SERVER
+[07:04:17][127.0.0.1][Quang_Nguy_n] STOP SERVER
+[07:06:02][127.0.0.1][Quang_Nguy_n] START SERVER

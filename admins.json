@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Quang_Nguy_n",
+    "master": true,
+    "password_hash": "$2a$11$dhIiimhNqZIpRKQBasBmAeM5xwd4z8gfhxibnfJz7UJEdGT1M.hJC",
+    "providers": {
+      "citizenfx": {
+        "id": "Quang_Nguy_n",
+        "identifier": "fivem:307255",
+        "data": {
+          "sub": "5ff036c7081407f07e4a99a73e3c56dc",
+          "nameid": "https://forum.cfx.re/internal/user/307255",
+          "name": "Quang_Nguy_n",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/quang_nguy_n/256/147342_2.png",
+          "profile": "https://forum.cfx.re/u/Quang_Nguy_n"
+        }
+      }
+    },
+    "permissions": []
+  }
+]
